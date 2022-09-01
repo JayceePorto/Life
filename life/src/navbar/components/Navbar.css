@@ -1,0 +1,15 @@
+
+.Navbar {
+    display: flex;
+    justify-content: space-around;
+
+    list-style-type: none;
+    background-color: #00b395;
+    color: #ebcb94;
+    padding: 15px;
+    position: sticky;
+}
+
+a:link {
+    color: #ebcb94;
+}
